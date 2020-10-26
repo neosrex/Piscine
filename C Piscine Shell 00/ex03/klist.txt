@@ -1,5 +1,5 @@
-Credentials cache: API:66C6F351-D8BA-4CED-829C-56A014594693
-        Principal: glanzatmp@42ROMA.IT
+Credentials cache: API:6318DA96-AAB1-422E-B2E6-3047DAE1EC62
+        Principal: glanza@42ROMA.IT
 
   Issued                Expires               Principal
-Oct 20 14:23:16 2020  Oct 21 00:22:58 2020  krbtgt/42ROMA.IT@42ROMA.IT
+Oct 22 14:32:27 2020  Oct 23 00:32:22 2020  krbtgt/42ROMA.IT@42ROMA.IT

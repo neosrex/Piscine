@@ -1,1 +1,1 @@
-ls -mctrp
+ls -tUmp

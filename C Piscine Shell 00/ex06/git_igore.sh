@@ -1,1 +1,2 @@
-git status --untracked-files=normal -s
+#!/bin/sh
+git ls-files --other -i --exclude-standard
